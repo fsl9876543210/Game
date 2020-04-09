@@ -15,4 +15,4 @@ ps:代码里有详细注释
 # Game2
 ## 一笔画完辅助(python dfs，~~不太实用，看看就行:grin:~~)
 ![](https://github.com/fsl9876543210/Game/blob/master/%E4%B8%80%E7%AC%94%E7%94%BB%E5%AE%8C(%E6%B2%A1%E4%BB%80%E4%B9%88%E5%8D%B5%E7%94%A8%E7%9A%84%E8%BE%85%E5%8A%A9)/%E4%BB%A3%E7%A0%81%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C.png)
-![](Game/一笔画完(没什么卵用的辅助)/一笔画完演示图.png)
+![](https://github.com/fsl9876543210/Game/blob/master/%E4%B8%80%E7%AC%94%E7%94%BB%E5%AE%8C(%E6%B2%A1%E4%BB%80%E4%B9%88%E5%8D%B5%E7%94%A8%E7%9A%84%E8%BE%85%E5%8A%A9)/%E4%B8%80%E7%AC%94%E7%94%BB%E5%AE%8C%E6%BC%94%E7%A4%BA%E5%9B%BE.png)
